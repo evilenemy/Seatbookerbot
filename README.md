@@ -32,7 +32,7 @@ source .venv/bin/activate
 ### To install the required modules listed in the `requirements.txt` file, run the following command:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ### And enjoy:
